@@ -3,4 +3,4 @@ hello-world
 
 First repository
 
-Why hello Mr.Soloh
+Why hello Mr.Soloh.
